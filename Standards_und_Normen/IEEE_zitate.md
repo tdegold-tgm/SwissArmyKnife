@@ -40,7 +40,7 @@ Ein Beispiel:
 
 **"**
 
-Norm/Standard
+Norm/Standard  
 [1] IEEE, "How to Cite References:  IEEE Documentation Style", Institute of Electrical and Electronics Engineers. [Online]. Available: https://ieee-dataport.org/sites/default/files/analysis/27/IEEE%20Citation%20Guidelines.pdf. [Accessed: Jan. 23, 2020]
 
 **"**

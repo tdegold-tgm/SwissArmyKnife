@@ -53,13 +53,12 @@ Da das genaue Format abhängig von der Art der Quelle ist empfehle ich, die Norm
 
 ## Quellen
 
-**Norm/Standard**
+**Norm/Standard**  
 [1] IEEE, "How to Cite References:  IEEE Documentation Style", Institute of Electrical 		and Electronics Engineers. [Online]. Available: https://ieee-dataport.org/sites/default/files/analysis/27/IEEE%20Citation%20Guidelines.pdf. [Accessed: Jan. 23, 2020]
 
 
 
-**GitHub Repository**
-
+**GitHub Repository**  
 [2] T. Degold, "Zitieren nach den IEEE-Regeln", *github.com*. [Online]. Available: https://github.com/tdegold-tgm/SwissArmyKnife/blob/master/Standards_und_Normen/IEEE_zitate.md. [Accessed: Jan. 23, 2020]
 
 

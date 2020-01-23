@@ -36,9 +36,11 @@ Einige Bauteile [5-8] haben die Eigenschaft, dass
 
 Parallel zum korrekten Zitieren innerhalb des Textes sollte man ein wohlgeformtes **Quellenverzeichnis** führen. Dieses ist **linksbündig** zu halten und die Quellen sind durch **Leerzeilen** zu trennen. Die Quellen müssen ebenfalls **durchnummeriert** werden. Die Zahlen werden in **eckigen Klammern** geschrieben.
 
-Ein Beispiel:  
+Ein Beispiel:
+
 Norm/Standard  
-[1] IEEE, "How to Cite References:  IEEE Documentation Style", Institute of Electrical and Electronics Engineers. [Online]. Available: https://ieee-dataport.org/sites/default/files/analysis/27/IEEE%20Citation%20Guidelines.pdf. [Accessed: Jan. 23, 2020]  
+[1] IEEE, "How to Cite References:  IEEE Documentation Style", Institute of Electrical and Electronics Engineers. [Online]. Available: https://ieee-dataport.org/sites/default/files/analysis/27/IEEE%20Citation%20Guidelines.pdf. [Accessed: Jan. 23, 2020]
+
 Da das genaue Format abhängig von der Art der Quelle ist empfehle ich, die Normen anhand des *offiziellen Papers* [[1]](https://ieee-dataport.org/sites/default/files/analysis/27/IEEE%20Citation%20Guidelines.pdf) zu lernen.
 
 ## Quellen

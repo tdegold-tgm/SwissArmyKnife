@@ -2,6 +2,8 @@
 
 Standards gibt es aus gutem Grund. Regeln an die sich alle halten, machen das Leben aller leichter. Viele Leute sind aber zu faul und/oder wollen sie [Standards] nicht lernen. Das ist mir unergründlich, da es nur 10 Minuten in Anspruch nimmt, sie sich anzueignen. Wer sich die Zitierregeln der IEEE in voller Länge durchlesen möchte kann dies gerne machen [[1]](https://ieee-dataport.org/sites/default/files/analysis/27/IEEE%20Citation%20Guidelines.pdf).
 
+**Dieses Dokument kann ebenfalls in meinem Repo [[2]](https://github.com/tdegold-tgm/SwissArmyKnife/blob/master/Standards_und_Normen/IEEE_zitate.md) gefunden werden.**
+
 ## Nützliche Informationen
 
 Um sinnvoll zitieren zu können muss man wissen, welche Informationen essentiell für das Referenzieren sind. Nach IEEE sind dies:
@@ -34,20 +36,27 @@ Einige Bauteile [5-8] haben die Eigenschaft, dass
 
 Parallel zum korrekten Zitieren innerhalb des Textes sollte man ein wohlgeformtes **Quellenverzeichnis** führen. Dieses ist **linksbündig** zu halten und die Quellen sind durch **Leerzeilen** zu trennen. Die Quellen müssen ebenfalls **durchnummeriert** werden. Die Zahlen werden in **eckigen Klammern** geschrieben.
 
+Ein Beispiel:
+
 ```
-E-books
-[1]	L. Bass, P. Clements, and R. Kazman,Software A rc  hitecture i n Practice, 2nd 			ed.Reading, MA: Addison Wesley, 2003. [E-book] Available: Safari e-book.Article in 	
-
-Online Encyclopedia
-[2]	D. Ince, “Acoustic coupler,” in A Dictionary of the Internet. Oxford UniversityPress, 	  [online document], 2001. Available: Oxford Reference Online, 							http://www.oxfordreference.com [Accessed: May 24, 2007].
+Norm/Standard
+[1] IEEE, "How to Cite References:  IEEE Documentation Style", Institute of Electrical and Electronics Engineers. [Online]. Available: https://ieee-dataport.org/sites/default/files/analysis/27/IEEE%20Citation%20Guidelines.pdf. [Accessed: Jan. 23, 2020]
 ```
 
-
-
-
+Da das genaue Format abhängig von der Art der Quelle ist empfehle ich, die Normen anhand des *offiziellen Papers* [[1]](https://ieee-dataport.org/sites/default/files/analysis/27/IEEE%20Citation%20Guidelines.pdf) zu lernen.
 
 
 
 ## Quellen
 
-[1]	https://ieee-dataport.org/sites/default/files/analysis/27/IEEE%20Citation%20Guidelines.pdf
+**Norm/Standard**
+[1] IEEE, "How to Cite References:  IEEE Documentation Style", Institute of Electrical 		and Electronics Engineers. [Online]. Available: https://ieee-dataport.org/sites/default/files/analysis/27/IEEE%20Citation%20Guidelines.pdf. [Accessed: Jan. 23, 2020]
+
+
+
+**GitHub Repository**
+
+[2] T. Degold, "Zitieren nach den IEEE-Regeln", *github.com*. [Online]. Available: https://github.com/tdegold-tgm/SwissArmyKnife/blob/master/Standards_und_Normen/IEEE_zitate.md. [Accessed: Jan. 23, 2020]
+
+
+

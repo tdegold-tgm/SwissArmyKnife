@@ -38,12 +38,14 @@ Parallel zum korrekten Zitieren innerhalb des Textes sollte man ein wohlgeformte
 
 Ein Beispiel:
 
-```
+**"**
+
 Norm/Standard
 [1] IEEE, "How to Cite References:  IEEE Documentation Style", Institute of Electrical and Electronics Engineers. [Online]. Available: https://ieee-dataport.org/sites/default/files/analysis/27/IEEE%20Citation%20Guidelines.pdf. [Accessed: Jan. 23, 2020]
-```
 
 Da das genaue Format abhängig von der Art der Quelle ist empfehle ich, die Normen anhand des *offiziellen Papers* [[1]](https://ieee-dataport.org/sites/default/files/analysis/27/IEEE%20Citation%20Guidelines.pdf) zu lernen.
+
+**"**
 
 
 

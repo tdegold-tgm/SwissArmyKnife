@@ -2,7 +2,7 @@
 
 Eine Übersicht über die gängigsten Mardown-Elemente [[1]](https://support.typora.io/Markdown-Reference).
 
-**Dieses Dokument kann ebenfalls in meinem Repo [[2]]() gefunden werden.**
+**Dieses Dokument kann ebenfalls in meinem Repo [[2]](https://github.com/tdegold-tgm/SwissArmyKnife/blob/master/markdown/markdown_cheatsheet.md) gefunden werden.**
 
 ## Überschriften
 

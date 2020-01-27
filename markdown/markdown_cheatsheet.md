@@ -134,9 +134,8 @@ Man kann einfach HTML-Elemente einfügen, um den Text zusätzlich zu designen. z
 
 ## Quellen
 
-**offizielle Website**
-
+**offizielle Website**  
 [1] "Markdown Reference", typora.io. [Online]. Available: https://support.typora.io/Markdown-Reference. [Accessed: Jan. 27, 2020]
 
-**GitHub Repository**
+**GitHub Repository**  
  [2] T. Degold, "Markdown Cheatsheet", *github.com*. [Online]. Available: https://github.com/tdegold-tgm/SwissArmyKnife/blob/master/markdown/markdown_cheatsheet.md. [Accessed: Jan. 27, 2020]
